@@ -112,7 +112,8 @@ pip install rich
 ### Download
 ```bash
 # Clone or download diff_plus.py
-wget https://raw.githubusercontent.com/LvL23HT/diff_plus/main/diff_plus.py
+git clone https://github.com/LvL23HT/diff_plus.git
+cd diff_plus
 chmod +x diff_plus.py
 ```
 
